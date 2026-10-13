@@ -1,0 +1,16 @@
+{
+ "daily_total": 30,
+ "A": {
+  "jamsil-ivf": 4,
+  "jamsil-iui": 4,
+  "jamsil-test": 4,
+  "jamsil-ovarian": 3
+ },
+ "B": {
+  "jamsil-implantation": 3,
+  "jamsil-preservation": 3,
+  "jamsil-pgt": 3,
+  "jamsil-pcos": 3,
+  "jamsil-endometrium": 3
+ }
+}
