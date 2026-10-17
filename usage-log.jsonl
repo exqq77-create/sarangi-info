@@ -37,3 +37,4 @@
 {"date": "2026-10-17", "source_id": "003", "source_file": "003_jamsil-ivf_잠실시험관.txt", "original": "사랑아이/0529 잠실시험관 -사랑아이.txt", "slug": "jamsil-ivf-21", "note": "시험관 단계 개요 중 난자→수정→배양 단계별 개수 변화 각도로 재구성. 난임 원인 비율·10~14일 등 수치와 후기형 서술 제외"}
 {"date": "2026-10-18", "source_id": "066", "source_file": "066_jamsil-ovarian_잠실산전검사.txt", "original": "사랑아이/잠실산전검사_정리표_사랑아이여성의원.xlsx", "slug": "jamsil-ovarian-21", "note": "AMH 정리 시트의 'AMH 하나로 판단 어렵다' 사실만 사용, 결과지 단위·검사법 차이·재검사 각도로 새로 작성; 원문 538자로 짧아 1,500자 하한 적용"}
 {"date": "2026-10-18", "source_id": "039", "source_file": "039_jamsil-pcos_다낭성난소증후군-검사.txt", "original": "사랑아이/다낭성난소증후군 검사 -사랑아이 여성의원.txt", "slug": "jamsil-pcos-21", "note": "원문의 수면 부족·생활 리듬 언급을 기분·수면 연계 각도로 확장; 원문 검사 설명은 쓰지 않음"}
+{"date": "2026-10-18", "source_id": "none", "source_file": "", "original": "원문 없음(jamsil-pgt 원문 0건)", "slug": "jamsil-pgt-21", "note": "원문 없음: 일반 의학 정보 범위에서 정상 배아 이식 후 임신이 되지 않았을 때 자궁 구조·내막 준비·이식 과정을 점검하는 각도로 작성, 수치 미기재"}
