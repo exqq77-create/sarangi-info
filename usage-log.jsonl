@@ -128,3 +128,4 @@
 {"date":"2026-10-21","source":"none","slug":"jamsil-pgt-41","note":"원문 없음 · 배아 취급 오류 걱정 시 환자 확인 절차 질문"}
 {"date": "2026-10-21", "source_id": "058", "source_file": "058_jamsil-test_잠실-산전검사.txt", "original": "사랑아이/잠실 산전검사 -사랑아이.txt", "slug": "jamsil-test-41", "note": "산전검사 예방접종 시기 원문의 풍진·수두·B형간염 항체 확인 사실만 참고 · 수두·B형간염 항체 결과와 접종 후 임신 시도 시점 각도(원문 구조 미사용)"}
 {"date": "2026-10-21", "source_id": "012", "source_file": "012_jamsil-preservation_난임병원-난자냉동.txt", "original": "사랑아이/0921 난임병원 난자냉동 -사랑아이 #질문글.txt", "slug": "jamsil-preservation-41", "note": "난자냉동 질문글 원문의 해동 후 상태·임신 과정 궁금증만 참고 · 해동 개수와 단계별 감소 이해 각도(일반 정보)"}
+{"date": "2026-10-21", "source_id": "015", "source_file": "015_jamsil-endometrium_hpv-백신-비용.txt", "original": "사랑아이/hpv 백신 비용_사랑아이_변환원고.txt", "slug": "jamsil-endometrium-42", "note": "HPV 접종 기록 확인법 각도(비용 원문의 접종 이력·상담 부분만 사용), 분량 90% 이상"}
