@@ -135,3 +135,4 @@
 {"date": "2026-10-21", "source_id": "063", "source_file": "063_jamsil-ovarian_잠실난임병원시험관.txt", "original": "사랑아이/잠실난임병원시험관_정리표_사랑아이여성의원.xlsx", "slug": "jamsil-ovarian-42", "note": "원문 정리표(진행 절차 중 모니터링 2~3일 간격·난포 약 18mm 이상 채취)만 사용, 난포 크기·호르몬 수치 읽기 각도. 원문 532자로 분량은 기본 1500자 기준"}
 {"date": "2026-10-21", "source_id": "039", "source_file": "039_jamsil-pcos_다낭성난소증후군-검사.txt", "original": "사랑아이/다낭성난소증후군 검사 -사랑아이 여성의원.txt", "slug": "jamsil-pcos-45", "note": "생리 날짜·피부·체중 변화 기록 사실 사용, 각도: 진료에 가져갈 기록 노트 항목. 원문 1370자로 기준 1500자에 맞춰 새 정보 보강"}
 {"date":"2026-10-21","source":"none","slug":"jamsil-pgt-45","note":"unused pgt source none; angle: sex chromosome result explanation"}
+{"date": "2026-10-21", "source_id": "010", "source_file": "010_jamsil-preservation_송파구난임.txt", "original": "사랑아이/0812 송파구난임 -사랑아이.txt", "slug": "jamsil-preservation-45", "note": "송파구난임 원문에서 난임 기준(1년/35세 6개월)·시험관 흐름·동결 후 이식 사실만 사용, 난자동결 상담에서 시험관 설명이 함께 나오는 이유와 채취 후 갈라지는 지점 각도로 재작성 (4회 이상 사용 후 각도 변경)"}
